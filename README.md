@@ -11,7 +11,7 @@
 <!-- Replace the placeholder below with your real screenshot once exported (save it to docs/dashboard-preview.png and uncomment this line) -->
 <!-- ![Dashboard preview](docs/dashboard-preview.png) -->
 
-> **[ Add a dashboard screenshot here ]** — a single image of the dashboard goes a long way. Export the `Dashboard` tab as a picture, save it as `docs/dashboard-preview.png`, then uncomment the image line just above this note.
+> **[ Add a dashboard screenshot here ]** — a single image of the dashboard goes a long way. Export the `Dashboard` tab as a picture, save it as `docs/dashboard-preview.pdf`, then uncomment the image line just above this note.
 
 ---
 
