@@ -8,8 +8,7 @@
 ![DAX](https://img.shields.io/badge/Measures-DAX-2E75B6)
 ![FP&A](https://img.shields.io/badge/Domain-FP%26A-1F3864)
 
-
-> **[https://github.com/glcapitan/financial-dashboard/blob/main/docs/dashboard-preview.png]** — a single image of the dashboard goes a long way. Export the `Dashboard` tab as a picture, save it as `docs/dashboard-preview.png`, then uncomment the image line just above this note.
+![Dashboard preview](docs/dashboard-preview.png)
 
 ---
 
@@ -38,11 +37,7 @@ Most finance teams hand stakeholders a raw P&L export. This project turns that s
 
 ## How it's built
 
-```
-8 P&L tabs  →  Power Query (unpivot + append)  →  Power Pivot data model  →  DAX measures  →  Pivot tables  →  Dashboard
-(4 depts ×       tidy fact tables                  + lookup tables             period &          (the Data        (KPI tiles,
- Actual/Budget)                                      + relationships            variance logic    sheet)           gauges, charts)
-```
+![Build pipeline: eight P&L tabs flow through Power Query (unpivot and append) into the Power Pivot data model with lookup tables and relationships, then DAX measures handle period and variance logic, feeding pivot tables on the Data sheet and finally the Dashboard's KPI tiles, gauges, and charts.](docs/pipeline.png)
 
 The Dashboard reads only from the measures — never the raw tabs — so the presentation layer stays insulated from the underlying data. The single `Current Month` input cell drives every reporting window.
 
