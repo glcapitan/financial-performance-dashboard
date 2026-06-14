@@ -8,8 +8,8 @@
 ![DAX](https://img.shields.io/badge/Measures-DAX-2E75B6)
 ![FP&A](https://img.shields.io/badge/Domain-FP%26A-1F3864)
 
-<!-- Replace the placeholder below with your real screenshot once exported (save it to docs/dashboard-preview.png and uncomment this line) -->
-<!-- ![Dashboard preview](docs/dashboard-preview.png) -->
+<!-- Replace the placeholder below with your real screenshot once exported (save it to docs/dashboard-preview.pdf and uncomment this line) -->
+<!-- ![Dashboard preview](docs/dashboard-preview.pdf) -->
 
 > **[ Add a dashboard screenshot here ]** — a single image of the dashboard goes a long way. Export the `Dashboard` tab as a picture, save it as `docs/dashboard-preview.pdf`, then uncomment the image line just above this note.
 
