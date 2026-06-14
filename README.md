@@ -62,7 +62,7 @@ The Dashboard reads only from the measures — never the raw tabs — so the pre
 
 ## About this project
 
-This dashboard was built as a hands-on FP&A and Excel data-modeling exercise, following a step-by-step tutorial on the Power Query → Power Pivot → DAX workflow. I rebuilt it end to end to understand each layer — the ETL, the relationships, the time-intelligence measures, and the variance logic — and I'm happy to walk through any part of how it works. _Add the tutorial link/credit here; technique reference: Model Wiz (modelwiz.com)._
+This dashboard was built as a hands-on FP&A and Excel data-modeling exercise, following a step-by-step tutorial on the Power Query → Power Pivot → DAX workflow. I rebuilt it end to end to understand each layer — the ETL, the relationships, the time-intelligence measures, and the variance logic — and I'm happy to walk through any part of how it works.
 
 ## License
 
