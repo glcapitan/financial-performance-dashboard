@@ -9,7 +9,7 @@
 ![FP&A](https://img.shields.io/badge/Domain-FP%26A-1F3864)
 
 
-> **[(https://github.com/glcapitan/financial-dashboard/blob/main/docs/dashboard-preview.png)]** — a single image of the dashboard goes a long way. Export the `Dashboard` tab as a picture, save it as `docs/dashboard-preview.png`, then uncomment the image line just above this note.
+> **[https://github.com/glcapitan/financial-dashboard/blob/main/docs/dashboard-preview.png]** — a single image of the dashboard goes a long way. Export the `Dashboard` tab as a picture, save it as `docs/dashboard-preview.png`, then uncomment the image line just above this note.
 
 ---
 
