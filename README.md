@@ -42,7 +42,7 @@ Most finance teams hand stakeholders a raw P&L export. This project turns that s
 The Dashboard reads only from the measures — never the raw tabs — so the presentation layer stays insulated from the underlying data. The single `Current Month` input cell drives every reporting window.
 
 **Full build, architecture, and maintenance guide:** [`docs/TECHNICAL.md`](docs/TECHNICAL.md)
-**CFO-style findings & recommendations memo:** [`Financial_Performance_Dashboard_Documentation.pdf`](Financial_Performance_Dashboard_Documentation.pdf) (opens in GitHub's viewer; an editable `.docx` is in the repo too)
+**CFO-style findings & recommendations memo:** [`Financial_Performance_Dashboard_Documentation.pdf`](docs/Financial_Performance_Dashboard_Documentation.pdf) (opens in GitHub's viewer; an editable `.docx` is in the repo too)
 
 ## What's in the repo
 
